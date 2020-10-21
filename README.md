@@ -6,7 +6,7 @@ This is a fork of [Facebook AI Research's](https://github.com/facebookresearch) 
 
 In this project, like its [reference](https://github.com/ErikGDev/instance-segmentation), real-time RGB video and depth map or RGB-D from a [Intel® RealSense™ D435 camera](https://www.intelrealsense.com/depth-camera-d435/) are inputted into Detectron2's Mask R_CNN model. The output is ("almost") real-time video (2-3fps with CUDA enabled in my case) with instance segmentation masks and labels superimposed. The feature of this project is that the median depth values of each object are also outputted. It runs in Windows10.
 
-![gif](img/)
+![gif](img/demo.gif)
 
 ## 1. Usage
 
