@@ -53,7 +53,7 @@ In this project, like its [reference](https://github.com/ErikGDev/instance-segme
 
 ---
 
-_(For conveniently recalling the background, I here copy and past most of the content from [this awesome rep](https://github.com/ErikGDev/instance-segmentation) as below.)_
+_(For conveniently recalling the background, I here copy and paste most of the content from [this awesome rep](https://github.com/ErikGDev/instance-segmentation) as below.)_
 ## 2. Accuracy and Specifications of Model
 
 ### 2.1 Instance Segmentation Validation Results
